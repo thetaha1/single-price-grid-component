@@ -33,6 +33,7 @@ body {
 /* End Global Style */
 .subscribe {
   width: 635px;
+  height: 475px;
 
   border-radius: 8px;
   background: #fff;
@@ -78,12 +79,11 @@ body {
   flex: 1;
   padding: var(--p-section-padding);
 }
-.subscribe .ro .col-1 .info-box h2 {
+.subscribe .ro .col-1 .info-box .title-col-1 {
   font-size: 18px;
   font-weight: var(--fw-bold);
   letter-spacing: -0.225px;
 
-  margin: 18px 0 4px;
 }
 .subscribe .ro .col-1 .info-box .price {
   font-weight: var(--fw-regular);
@@ -125,7 +125,7 @@ body {
   background-color: var(--clr-primary-100);
   border-bottom-right-radius: 8px;
 }
-.subscribe .ro .col-2 h2 {
+.subscribe .ro .col-2 .title-col-2 {
   font-size: 18px;
   font-weight: var(--fw-bold);
   letter-spacing: -0.225px;
