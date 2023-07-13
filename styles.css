@@ -91,6 +91,10 @@ body {
   letter-spacing: -0.2px;
   color: #95d9d7;
   margin: 18px 0 4px;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 .subscribe .ro .col-1 .info-box .price span {
   font-size: 32px;
