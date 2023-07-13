@@ -69,6 +69,7 @@ body {
   display: flex;
   background-color: var(--clr-primary-200);
   color: white;
+  border-radius: 0px 0px 8px 8px;
 }
 .subscribe .ro .col-1 {
   display: flex;
