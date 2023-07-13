@@ -18,5 +18,11 @@
 }
 body {
   font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--clr-neutral-300);
 }
 /* End Global Style */
+
