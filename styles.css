@@ -1,0 +1,22 @@
+/* Start Variables */
+:root {
+  --clr-primary-200: hsl(179, 62%, 43%);
+  --clr-primary-300: hsl(71, 73%, 54%);
+
+  --clr-neutral-100: hsl(204, 43%, 93%);
+  --clr-neutral-300: hsl(218, 22%, 67%);
+
+  --fw-regular: 400;
+  --fw-bold: 700;
+}
+/* End Variables */
+/* Start Global Style */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 16px;
+}
+/* End Global Style */
