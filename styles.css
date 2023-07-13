@@ -115,6 +115,8 @@ body {
   padding: 15px 0;
   border-radius: 5px;
   box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.1);
+
+  margin-top: 26px;
 }
 .subscribe .ro .col-2 {
   flex: 1;
@@ -128,4 +130,9 @@ body {
 
   margin-bottom: 18px;
 }
-
+.subscribe .ro .col-2 p {
+  font-size: 14px;
+  font-weight: var(--fw-regular);
+  line-height: 20px;
+  letter-spacing: -0.175px;
+}
