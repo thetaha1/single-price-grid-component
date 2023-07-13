@@ -58,7 +58,7 @@ body {
   font-weight: var(--fw-bold);
   letter-spacing: -0.225px;
 
-  margin: 24px 0 11px;
+  margin: 24px 0 10px;
 }
 .subscribe .info p {
   color: var(--clr-neutral-300);
